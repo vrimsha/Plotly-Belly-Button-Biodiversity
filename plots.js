@@ -92,7 +92,7 @@ function buildBubbleCharts(sample) {
         };
         var data = [trace];
         var layout = {
-            title: "OTU ID",
+            title: "Bacteria Cultures Per Sample",
             showlegend: false,
             height: 600,
         };
